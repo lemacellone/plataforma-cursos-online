@@ -1,6 +1,4 @@
-
 ## Plataforma de Cursos Online
-//feito para teste da Accenture
 
 Este é um exemplo de aplicação desenvolvida em Java com Spring Boot e Hibernate para gerenciar uma plataforma de cursos online. A aplicação utiliza um banco de dados H2 em memória e expõe endpoints REST para gerenciamento de alunos, cursos e inscrições.
 
